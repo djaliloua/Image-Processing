@@ -3,6 +3,7 @@
   <head>
   </head>
 <body>
-  <h1> Residual Dense Network for image super-resolution </h1>
+  <h1 style='color:blue'> Residual Dense Network for image super-resolution </h1>
+  
 </body>
 </html>
